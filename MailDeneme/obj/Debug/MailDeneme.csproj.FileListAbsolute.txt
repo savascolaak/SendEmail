@@ -1,0 +1,8 @@
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\bin\Debug\MailDeneme.exe.config
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\bin\Debug\MailDeneme.exe
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\bin\Debug\MailDeneme.pdb
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\obj\Debug\MailDeneme.csproj.AssemblyReference.cache
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\obj\Debug\MailDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\obj\Debug\MailDeneme.csproj.CoreCompileInputs.cache
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\obj\Debug\MailDeneme.exe
+C:\Users\SİSTEMIQ A.Ş DELL\Source\Repos\MailDeneme\MailDeneme\obj\Debug\MailDeneme.pdb
